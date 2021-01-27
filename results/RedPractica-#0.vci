@@ -1,0 +1,27 @@
+file 190022 1611775741                                          
+version 2
+run RedPractica-0-20210127-20:28:52-690823
+attr configname RedPractica
+attr datetime 20210127-20:28:52
+attr experiment RedPractica
+attr inifile omnetpp.ini
+attr iterationvars ""
+attr iterationvarsf ""
+attr measurement ""
+attr network redPractica
+attr processid 690823
+attr repetition 0
+attr replication #0
+attr resultdir results
+attr runnumber 0
+attr seedset 0
+
+vector 0 redPractica.nodo4 HopCount ETV
+vector 1 redPractica.nodo4 e2eDelay ETV
+vector 2 redPractica.nodo3 HopCount ETV
+vector 3 redPractica.nodo3 e2eDelay ETV
+0	532 59637 8 18765 0.164275878159 488.687188051761 2288 1 3 3646 6834
+1	60169 84999 8 18765 0.164275878159 488.687188051761 2288 0.005 5.238 876.73860489896 706.59413397973
+2	145168 18603 67 18753 1.71561644025 487.440521385096 712 1 3 1198 2410
+3	163771 26250 67 18753 1.71561644025 487.440521385096 712 0.006333333333 3.185606477148 246.04752492644 184.61841684093
+
